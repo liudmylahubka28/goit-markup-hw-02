@@ -24,6 +24,11 @@ a {
 .header-logo .logo-part {
     color: #2e2f42;
 }
+.page-footer {
+    line-height: 1.5;
+    letter-spacing: 0.02e;
+    color: #F4F4FD;
+}
 .footer-logo .logo-part {
     color: #f4f4fd;
 }
