@@ -24,17 +24,7 @@ a {
 .header-logo .logo-part {
     color: #2e2f42;
 }
-.footer-text {
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #F4F4FD;
-}
-.footer-logo .logo-part {
-    color: #f4f4fd;
-}
-.footer-logo {
-    margin-bottom: 16px;
-}
+
 .nav-link {
     font-weight: 500;
     font-size: 16px;
@@ -57,9 +47,7 @@ color: #434455;
 .contacts-link:focus {
     color: #404bbf;
 }
-.page-footer {
-    background-color: #2e2f42;
-}
+
 .page-hero {
     background-color: #2E2F42;
 }
@@ -141,4 +129,18 @@ color: #2e2f42;
     line-height: 1.5;
     letter-spacing: 0.02em; 
     color: #434455;
+}
+.footer-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}
+.footer-logo .logo-part {
+    color: #f4f4fd;
+}
+.footer-logo {
+    margin-bottom: 16px;
+}
+.page-footer {
+    background-color: #2e2f42;
 }
