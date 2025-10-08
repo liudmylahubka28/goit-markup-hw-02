@@ -55,3 +55,25 @@ color: #434455;
 .page-footer {
     background-color: #2e2f42;
 }
+.page-hero {
+    background-color: #2E2F42;
+}
+h1 {
+    font-size: 56px;
+    line-height: 1.0;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+.hero-button {
+    background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+.hero-button:hover, .hero-button:focus {
+    background-color: #404BBF;
+    cursor: pointer;
+     
+}
